@@ -29,6 +29,9 @@ This repository contains a Power BI dashboard designed to visualize pharmaceutic
 ### 🥧 Pie Chart
 
 - Revenue Contribution by Each Medical Representative
+- -------
+### Here is the preview of PowerBI Dashboard of Pharma sales 2024
+<img src="https://github.com/Sowji-techsavvy/Pharma-sales-KPI-s-Targets/blob/main/Pharma%20Sales%20Dashboard-.pbix2.jpg" alt="Dashboard Preview" width="600"/>
 
 ---
 
